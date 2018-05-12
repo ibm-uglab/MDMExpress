@@ -1,0 +1,5 @@
+{
+  "Windows": "https://download.docker.com/win/stable/Docker%20for%20Windows%20Installer.exe",
+  "WindowsNoHV": "https://download.docker.com/win/stable/DockerToolbox.exe",
+  "Mac": "https://download.docker.com/mac/stable/Docker.dmg"
+}
